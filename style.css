@@ -1,0 +1,33 @@
+body {
+    background-color: #cccccc;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #077cba;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+a {
+    font-size: 18 px;
+    font-weight: bold;
+    color: black;
+}
+
+h3 {
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+img {
+    height: auto;
+    width: 400px;
+    border-radius: 10px;
+}
+
+ul {
+    list-style-position: inside;
+}
