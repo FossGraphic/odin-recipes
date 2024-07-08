@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    font-family: Helvetica;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+img {
+    width: 500px;
+    border-radius: 20px;
+}
